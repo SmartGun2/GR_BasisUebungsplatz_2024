@@ -18,6 +18,7 @@
 	"CUP_arifle_G36KA3",
 	"CUP_arifle_G36KA3_afg_camo",
 	"CUP_arifle_G36KA3_afg_wdl",
+	"CUP_arifle_G36K",
 	"CUP_arifle_G36C",
 	"CUP_arifle_G36C_camo",
 	"CUP_arifle_G36C_wdl",
@@ -129,6 +130,7 @@
 	"CUP_optic_ZeissZPoint",
 	"CUP_optic_ZeissZPoint_desert",
 	"CUP_optic_ZeissZPoint_wood",
+	"CUP_optic_G36DualOptics_3D",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -145,6 +147,19 @@
 	"CUP_acc_LLM_black",
 	"CUP_acc_LLM",
 	"CUP_acc_LLM_od",
+	
+//------------------------------------------------------------------
+//------------------------------------------------------------------
+//
+//						Muzzle
+//
+//------------------------------------------------------------------
+//------------------------------------------------------------------
+
+"muzzle_antenna_02_f",
+"muzzle_antenna_03_f",
+"muzzle_antenna_01_f",
+
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -163,6 +178,9 @@
 //------------------------------------------------------------------
 	"CUP_hgun_M17_Black",
 	"ACE_VMH3",
+	"ACE_Flashlight_Maglite_ML300L",
+	"CUP_hgun_FlareGun",
+	"hgun_esd_01_F",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -261,6 +279,7 @@
 	"CUP_V_B_GER_PVest_Trop_TL_LT",
 	"GRE_PlateCarrier1_Flecktarn",
 	"GRE_PlateCarrier1_Tropentarn",
+	"CUP_V_B_GER_Carrier_Vest_3",
 	"V_Chestrig_rgr",
 	"CUP_V_B_PilotVest",
 	"Aircrew_vest_2_NH",
@@ -313,6 +332,7 @@
 	"CUP_B_TOW_Tripod_Bag",
 	"B_CombinationUnitRespirator_01_F",
 	"B_SCBA_01_F",
+	"ACE_TacticalLadder_Pack",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -321,7 +341,13 @@
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 	"CUP_H_Ger_M92_Cover",
+	"CUP_H_Ger_M92_Cover_GG_CB",
+	"CUP_H_Ger_M92_Cover_GG_CF",
+	"CUP_H_Ger_M92_Cover_GG",
 	"CUP_H_Ger_M92_Cover_Trop",
+	"CUP_H_Ger_M92_Cover_Trop_GG_CB",
+	"CUP_H_Ger_M92_Cover_Trop_GG_CF",
+	"CUP_H_Ger_M92_Cover_Trop_GG",
 	"CUP_H_OpsCore_Covered_Fleck",
 	"CUP_H_OpsCore_Covered_Tropen",
 	"CUP_H_OpsCore_Covered_Tropen_NoHS",
@@ -332,6 +358,7 @@
 	"CUP_H_Ger_Boonie2_desert",
 	"CUP_H_Ger_Cap_EP_Grn1",
 	"CUP_H_Ger_Cap_EP_Tan1",
+	"CUP_H_Ger_Cap_Grn2",
 	"H_Construction_basic_yellow_F",
 	"H_PilotHelmetFighter_B",
 	"H_CrewHelmetHeli_O",
@@ -380,6 +407,7 @@
 	"CUP_G_Scarf_Face_Grn",
 	"CUP_G_Scarf_Face_Tan",
 	"CUP_G_Oakleys_Drk",
+	"CUP_G_Oakleys_Clr",
 	"CUP_G_TK_RoundGlasses",
 	"CUP_G_Grn_Scarf_Shades",
 	"CUP_G_Tan_Scarf_Shades",
@@ -617,6 +645,7 @@
 	"ACE_HuntIR_monitor",
 	"ACE_Kestrel4500",
 	"ACE_Clacker",
+	"ACE_M26_Clacker",
 	"ACE_Flashlight_XL50",
 	"ACE_MapTools",
 	"ACE_PlottingBoard",
@@ -660,5 +689,7 @@
 	"ACE_UAVBattery",
 	"ItemcTabHCam",
 	"kat_gasmaskFilter",
+	"crowsew_tfar_icom",
+	"crowsew_ctrack",
 	"kat_sealant"
 ];
