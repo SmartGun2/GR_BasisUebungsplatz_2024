@@ -95,6 +95,19 @@
 	"CUP_acc_LLM_black",
 	"CUP_acc_LLM",
 	"CUP_acc_LLM_od",
+	
+//------------------------------------------------------------------
+//------------------------------------------------------------------
+//
+//						Muzzle
+//
+//------------------------------------------------------------------
+//------------------------------------------------------------------
+
+"muzzle_antenna_02_f",
+"muzzle_antenna_03_f",
+"muzzle_antenna_01_f",
+
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -113,6 +126,7 @@
 //------------------------------------------------------------------
 	"CUP_hgun_M17_Black",
 	"ACE_VMH3",
+	"hgun_esd_01_F",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -358,12 +372,7 @@
 	"ACE_surgicalKit",
 	"ACE_tourniquet",
 	"kat_IV_16",
-	"kat_accuvac",
-	"kat_X_AED",
-	"kat_amiodarone",
 	"kat_CarbonateItem",
-	"kat_atropine",
-	"kat_AED",
 	"kat_BVM",
 	"kat_CaffeineItem",
 	"kat_chestSeal",
@@ -374,11 +383,9 @@
 	"kat_larynx",
 	"kat_naloxone",
 	"kat_nitroglycerin",
-	"kat_PainkillerItem",
 	"kat_PenthroxItem",
 	"kat_pocketBVM",
 	"kat_oxygenTank_150_Item",
-	"kat_oxygenTank_300_Item",
 	"kat_Pulseoximeter",
 	"kat_TXA",
 //------------------------------------------------------------------
@@ -395,6 +402,7 @@
 	"ACE_PlottingBoard",
 	"ACE_RangeCard",
 	"ACE_wirecutter",
+	"ACE_M26_Clacker",
 	"Attachable_Helistretcher",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
@@ -417,5 +425,7 @@
 	"ACE_UAVBattery",
 	"ItemcTabHCam",
 	"kat_gasmaskFilter",
-	"kat_sealant"
+	"kat_sealant",
+	"crowsew_tfar_icom",
+	"crowsew_ctrack"
 ];

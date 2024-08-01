@@ -53,7 +53,8 @@ _whitelistedMods = 	[
 						"@G.O.S N'Djenahoud", "937515516",
 						"@Korsac", "3043043427",
 						"@G.O.S Al Rayak", "648172507",
-						
+						"@Sanagasta Map", "2466229756",
+						"@Bornhom [R]", "2914536900",
 
 						//----------------------------------
 						//
@@ -81,7 +82,9 @@ _whitelistedMods = 	[
 						"@Enhanced Map Ace Version", "2467590475",
 						"@Simplex Support Services", "1850026051",
 						"@DUI - Squad Radar", "1638341685",
-						
+						"@BackpackOnChest - Redux", "2372036642",
+						"@Crows Electronic Warfare", "2515887728",
+						"@Global Mobilization - Demo Vehicle", "1284731930",
 						
 						//Visual
 						"@Blastcore Edited (standalone version)", "767380317",
@@ -101,7 +104,7 @@ _whitelistedMods = 	[
 						"@ReColor", "649832908",
 						"@Fawks' Enhanced NVGs", "2513044572",
 						"@BettIR (Legacy v0.2.1)", "2260572637",
-						
+						"@German Rangers Intro 29-04-2024", "3234631841",
 						
 						
 						//Sound
